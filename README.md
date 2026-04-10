@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Emmanuel Adun (NoobDev)
-- 💻 Full-Stack Developer | CS Student @ FUPRE
-- 🔧 Currently focused on: **Backend development with Node.js & Express**
-- 🚀 Building real products and shipping things that work
+💻 Full-Stack Developer | CS Student @ FUPRE
+🔧 Currently focused on: **Backend development with Node.js & Express**
+🚀 Building real products and shipping things that work
 
 ---
 
 ## 📫 Contact Me
-- [![Email](https://img.shields.io/badge/Email-noobdev.codes@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:noobdev.codes@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel%20Adun-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-adun-67b2b4350)
+[![Email](https://img.shields.io/badge/Email-noobdev.codes@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:noobdev.codes@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel%20Adun-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-adun-67b2b4350)
 
 ---
 
