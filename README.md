@@ -12,9 +12,3 @@ I'm interested in backend systems and full-stack development — with a long-ter
 
 [![Email](https://img.shields.io/badge/Email-noobdev.codes@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:noobdev.codes@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel%20Adun-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-adun-67b2b4350)
-
----
-
-## 📊 GitHub Stats
-![NoobDev GitHub stats](https://github-readme-stats.vercel.app/api?username=noobdev08&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noobdev08&layout=compact&theme=radical)
