@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=160&section=header&text=Emmanuel&fontSize=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1e293b&fontColor=ffffff&height=140&section=header&text=Emmanuel&fontSize=50" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=CS+student+at+FUPRE;Building+backend+projects+with+TypeScript;Currently+learning+SQL+and+DSA&center=true&width=500&height=50)](https://git.io/typing-svg)
 
