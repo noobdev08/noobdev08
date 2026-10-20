@@ -1,17 +1,21 @@
-## Hi there! 👋
+## Hi, I'm Emmanuel 👋
 
-I'm **Emmanuel**, a full-stack developer and CS student based in Nigeria. I build complete products — backends, APIs, auth systems, and the frontends that tie them together.
+CS student at **FUPRE** (Nigeria), building backend and full-stack projects with TypeScript. I'm early in my career and currently strengthening my fundamentals: SQL, testing, and data structures and algorithms.
 
-I'm a 200-level Computer Science student at **FUPRE**. Most of my time goes into full-stack development with Next.js, Node.js and Express — learning by shipping real things, not just tutorials.
+### Currently
+- Building a **[Tasks API](https://github.com/noobdev08/tasks-api-ts)** with Node, Express and TypeScript, then adding validation, Postgres and tests
+- Learning raw SQL, and Python for DSA practice
 
-Stack: Next.js · React · TypeScript · Node.js · Express · Prisma · PostgreSQL · Supabase
+### Projects
+- **[PathWise](https://github.com/noobdev08/PathWise)**: career guidance tool for high school students (TypeScript, React)
+- **[QuickNotes](https://github.com/noobdev08/QuickNotes)**: full-stack notes app with JWT authentication
+- **[VerifyVillify](https://github.com/noobdev08/VerifyVillify)**: community claims platform (Prisma, PostgreSQL)
+- **[cv_builder](https://github.com/noobdev08/cv_builder)**: CV generator with a live A4 preview
 
-Some of what I've built: **[PathWise](https://github.com/noobdev08/PathWise)**, a career guidance tool for high school students built with TypeScript and React. **[QuickNotes](https://github.com/noobdev08/QuickNotes)**, a full-stack notes app with JWT auth. **[VerifyVilify](https://github.com/noobdev08/VerifyVillify)**, a community claims platform on Prisma and PostgreSQL. And **[cv_builder](https://github.com/noobdev08/cv_builder)**, a real-time CV generator with live A4 preview.
+### Tech
+- **Used in projects:** TypeScript, React, Node.js, Express, Prisma, PostgreSQL, JWT auth
+- **Learning now:** raw SQL, Python, testing, input validation
 
-I'm interested in backend systems and full-stack development — with a long-term pull toward machine learning and AI. Still early, building the foundation first.
+Long-term, I'm aiming toward machine learning and AI, with backend foundations first.
 
-**Let's connect!**
-
-[![Email](https://img.shields.io/badge/Email-noobdev.codes@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:noobdev.codes@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel%20Adun-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-adun-67b2b4350)
-
+📫 [noobdev.codes@gmail.com](mailto:noobdev.codes@gmail.com) · [LinkedIn](https://www.linkedin.com/in/emmanuel-adun-67b2b4350)
